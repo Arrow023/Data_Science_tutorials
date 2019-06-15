@@ -7,11 +7,11 @@ This directory contains some basic ipynb files for data science
     keras
     sklearn
 # Steps to install modules
-Goto to cmd terminal and type
-        pip install numpy
-        pip install matplotlib
-        pip install pandas
-        pip install sklearn
-        pip install keras
+Goto to cmd terminal and type.
+    pip install numpy
+    pip install matplotlib
+    pip install pandas
+    pip install sklearn
+    pip install keras
         
         
