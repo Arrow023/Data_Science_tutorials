@@ -14,6 +14,6 @@ Goto to cmd terminal and type.
     pip install pandas
     pip install sklearn
     pip install keras
-         
+          
         
  
