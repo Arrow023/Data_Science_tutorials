@@ -10,7 +10,7 @@ This directory contains some basic ipynb files for data science
 Goto to cmd terminal and type.
     
     pip install numpy
-    pip install matplotlib
+    pip install matplotlib 
     pip install pandas
     pip install sklearn
     pip install keras
