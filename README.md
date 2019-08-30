@@ -11,7 +11,7 @@ Goto to cmd terminal and type.
     
     pip install numpy
     pip install matplotlib 
-    pip install pandas
+    pip install pandas 
     pip install sklearn
     pip install keras
           
